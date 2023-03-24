@@ -13,7 +13,7 @@
 
 ![two](https://user-images.githubusercontent.com/119345840/227361381-35703bd0-fa60-438b-a206-cd55c810fc69.PNG)
 
--
+- Figure two is the same as figure one, just categorized by gender.
 
 ![three](https://user-images.githubusercontent.com/119345840/227361408-b2ec1d86-ef35-4560-93b9-b0b73b3670ba.PNG)
 
