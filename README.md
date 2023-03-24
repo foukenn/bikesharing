@@ -6,7 +6,9 @@
 - https://public.tableau.com/app/profile/kennan.foust/viz/ChallengeStory_16796021210920/ChallengeStory?publish=yes
 
 ![Capture](https://user-images.githubusercontent.com/119345840/227361368-6c115360-fb75-413e-86ae-9e8bac5ae783.PNG)
+ 
  - As shown in figure one, the majority of the bike trips are between 5 - 10 minutes. In general, all bike trip durations are less than 60 minutes, and when categorized by gender (shown in figure two), the data shows that majority of the users are male. However, all genders have a similar trip duration.
+
 ![two](https://user-images.githubusercontent.com/119345840/227361381-35703bd0-fa60-438b-a206-cd55c810fc69.PNG)
 
 ![three](https://user-images.githubusercontent.com/119345840/227361408-b2ec1d86-ef35-4560-93b9-b0b73b3670ba.PNG)
