@@ -2,7 +2,7 @@
 
 - The main purpose of this analysis was to analyze and visualize data from the CitiBike company in New York City using Tableau, which will be presented to a group of investors to convince them on how lucrative a bike sharing business coulld be if invested into in a different city.
 
-[Tableau Story]([url](https://public.tableau.com/app/profile/kennan.foust/viz/ChallengeStory_16796021210920/ChallengeStory?publish=yes))
+- [Tableau Story]([url](https://public.tableau.com/app/profile/kennan.foust/viz/ChallengeStory_16796021210920/ChallengeStory?publish=yes))
 
 ![Capture](https://user-images.githubusercontent.com/119345840/227361368-6c115360-fb75-413e-86ae-9e8bac5ae783.PNG)
  - As shown in figure one, the majority of the bike trips are between 5 - 10 minutes. In general, all bike trip durations are less than 60 minutes, and when categorized by gender (shown in figure two), the data shows that majority of the users are male. However, all genders have a similar trip duration.
