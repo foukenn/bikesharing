@@ -9,7 +9,7 @@
 ## Data Analysis and Charts
 ![Capture](https://user-images.githubusercontent.com/119345840/227361368-6c115360-fb75-413e-86ae-9e8bac5ae783.PNG)
  
-- As shown in figure one, the majority of the bike trips are between 5 - 10 minutes. In general, all bike trip durations are less than 60 minutes, and when categorized by gender (shown in figure two), the data shows that majority of the users are male. However, all genders have a similar trip duration.
+- As shown in figure one, the majority of the bike trips are between 5 - 10 minutes. In general, all bike trips are less than 60 minutes, and when categorized by gender (shown in figure two), the data shows that majority of the users are male. However, all genders have a similar trip duration.
 
 ![two](https://user-images.githubusercontent.com/119345840/227361381-35703bd0-fa60-438b-a206-cd55c810fc69.PNG)
 
