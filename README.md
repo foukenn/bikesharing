@@ -1,6 +1,6 @@
 # bikesharing
 
-- The main purpose of this analysis is to analyze and visualize data from the CitiBike company in New York City using Tableau, which will be presented to a group of investors to convince and impress them on how lucrative a bike sharing business coulld be if invested into in a different city.
+- The main purpose of this analysis was to analyze and visualize data from the CitiBike company in New York City using Tableau, which will be presented to a group of investors to convince them on how lucrative a bike sharing business coulld be if invested into in a different city.
 
 [Tableau Story]([url](https://public.tableau.com/app/profile/kennan.foust/viz/ChallengeStory_16796021210920/ChallengeStory?publish=yes))
 
