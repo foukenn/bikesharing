@@ -17,12 +17,16 @@
 
 ![three](https://user-images.githubusercontent.com/119345840/227361408-b2ec1d86-ef35-4560-93b9-b0b73b3670ba.PNG)
 
-- 
+- In figures three and four, the bikes are most often used during commute times around 7am -9am, though mostly at 8am and 5 - 6pm on weekdays, and during the afternoon on weekends. moreso, the male uses the most stoptime at 8am on weekdays and between 1pm to 5pm on weekends. The male is more significant when you compare these times by gender.
 
 ![four](https://user-images.githubusercontent.com/119345840/227361457-bb4122c4-cb7a-4049-891d-8f5a372a23f6.PNG)
 
 ![five](https://user-images.githubusercontent.com/119345840/227361481-aabe5d21-7d43-4b61-95d7-12ec2a1c43df.PNG)
 
-![six](https://user-images.githubusercontent.com/119345840/227361504-f1c0179d-ee70-4bca-a685-50adb19fd0b3.PNG)
+-
 
+![six](https://user-images.githubusercontent.com/119345840/227361504-f1c0179d-ee70-4bca-a685-50adb19fd0b3.PNG)
+ 
+ - Figure six shows how many times the bikes are being used, allowing for an easy view at which bikes are in need of more constant repairs.
+ 
 ![seven](https://user-images.githubusercontent.com/119345840/227361531-f8f0490b-fddf-4903-99bc-89345ba5ea8a.PNG)
